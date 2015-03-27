@@ -1,6 +1,7 @@
 <?php
+namespace JanosTestModel;
 
-class Model_Test{
+class JanosTestModel_Test {
 
 public function __construct(){
 
