@@ -1,13 +1,16 @@
 <?php
 
-Namespace JanosTest\Model;
+class Model_Test {
 
+public function __construct(){
 
-class Model {
+  echo "test";
+
+}
 
 public function test(){
 
-var_dump("ok");
+  var_dump("ok");
 
 }
 

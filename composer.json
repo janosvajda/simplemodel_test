@@ -1,5 +1,5 @@
 {
-    "name": "janosvajdatest/simplemodel_test",
+    "name": "simplemodel_test/simplemodel_test",
     "type": "library",
     "description": "Test model class",
     "keywords": ["DB model"],
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-0" : {
-            "Testmodel" : "lib/"
+            "Model_" : "lib/"
         }
     },
     "extra": {
