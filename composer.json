@@ -1,0 +1,32 @@
+{
+    "name": "janosvajdatest/simplemodel_test",
+    "type": "library",
+    "description": "Test model class",
+    "keywords": ["DB model"],
+    "homepage": "http://testmodelTest.com",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Janos",
+            "email": "janos@testmodelMMM.com",
+            "homepage": "http://testmodelMMM.com",
+            "role": "Developer"
+        },
+    ],
+    "support": {
+        "forum": "https://groups.google.com/forum/testModelSupport"
+    },
+    "require": {
+        "php": ">=5.2.7"
+    },
+    "autoload": {
+        "psr-0" : {
+            "Testmodel" : "lib/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
